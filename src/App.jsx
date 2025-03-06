@@ -1,5 +1,5 @@
-import "./index.css";
 import "./App.css";
+
 import {
   Blog,
   Features,
@@ -10,6 +10,7 @@ import {
 } from "./containers";
 
 import { CTA, Brand, Navbar } from "./components";
+
 function App() {
   return (
     <div className="App">
