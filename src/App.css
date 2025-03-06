@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    margin: unset;
+    all: unset;
     text-decoration: none;
 }
 
