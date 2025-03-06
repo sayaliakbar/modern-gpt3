@@ -2,7 +2,7 @@ import "./App.css";
 
 import {
   Blog,
-  Features,
+  Feature,
   Footer,
   Header,
   Possibility,
@@ -20,7 +20,7 @@ function App() {
       </div>
       <Brand />
       <WhatGPT3 />
-      <Features />
+      <Feature />
       <Possibility />
       <CTA />
       <Blog />
