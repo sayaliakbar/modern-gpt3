@@ -18,6 +18,8 @@ Modern GPT3 is a static website built with React, based on a Figma design by AR 
 
 ![Modern GPT3](https://github.com/user-attachments/assets/a9fce64e-c87e-46c9-ac66-77d53c4e04b5)
 
+### Live Site: [https://moderngpt3bysayaliakbar.netlify.app/](https://moderngpt3bysayaliakbar.netlify.app/)
+
 ## Installation Guide
 
 1. Clone the repository:
